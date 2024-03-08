@@ -1,0 +1,48 @@
+[
+    {
+      "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "bgUrl":"https://media.themoviedb.org/t/p/w533_and_h300_bestv2/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+      "movieName": "The Shawshank Redemption",
+      "releaseYear": 1994,
+      "durationMinutes": 142,
+      "genres": ["Drama"],
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+    },
+    {
+      "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "bgUrl":"https://media.themoviedb.org/t/p/w533_and_h300_bestv2/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+      "movieName": "The Godfather",
+      "releaseYear": 1972,
+      "durationMinutes": 175,
+      "genres": ["Crime", "Drama"],
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+      "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "bgUrl":"https://media.themoviedb.org/t/p/w250_and_h141_face/c3OHQncTAnKFhdOTX7D3LTW6son.jpg",
+      "movieName": "The Dark Knight",
+      "releaseYear": 2008,
+      "durationMinutes": 152,
+      "genres": ["Action", "Crime", "Drama"],
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "bgUrl":"https://media.themoviedb.org/t/p/w533_and_h300_bestv2/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "movieName": "Pulp Fiction",
+      "releaseYear": 1994,
+      "durationMinutes": 154,
+      "genres": ["Crime", "Drama"],
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+      "imageUrl": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "bgUrl":"https://media.themoviedb.org/t/p/w533_and_h300_bestv2/qdIMHd4sEfJSckfVJfKQvisL02a.jpg",
+      "movieName": "Forrest Gump",
+      "releaseYear": 1994,
+      "durationMinutes": 142,
+      "genres": ["Drama", "Romance"],
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+    }
+]
+  
